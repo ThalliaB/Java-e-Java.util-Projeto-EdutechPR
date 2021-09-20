@@ -2,6 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaPoupanca"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeContas"/>
-    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Conta"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.GuardadorDeReferencias"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.ContaCorrente"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
