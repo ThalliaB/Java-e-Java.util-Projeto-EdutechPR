@@ -11,4 +11,8 @@
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.modelo.Cliente"/>
     <fullyQualifiedTypeName name="br.com.bytebank.banco.test.util.TitularDaContaComparator"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="br.com.bytebank.banco.test.util.NumeroDaContaComparator2"/>
+    <fullyQualifiedTypeName name="java.util.function.Consumer"/>
 </qualifiedTypeNameHistroy>
